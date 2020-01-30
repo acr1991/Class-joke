@@ -1,0 +1,1 @@
+console.log(Yo momma is so fat when she got on the scale it said);
